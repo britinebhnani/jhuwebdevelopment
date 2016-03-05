@@ -1,6 +1,4 @@
 body {
-  min-height: 1500px;
-  padding-top: 60px;
   padding-bottom: 30px;
 }
 
@@ -28,7 +26,7 @@ body {
 Fix: Avoid displayin section headers behind navigation bar when
 navigation links are clicked
 https://github.com/twbs/bootstrap/issues/1768
-*/
+
 #chicken:before,
 #beef:before,
 #sushi:before {
@@ -38,3 +36,4 @@ https://github.com/twbs/bootstrap/issues/1768
   height: 60px;
   visibility: hidden;
 }
+*/
